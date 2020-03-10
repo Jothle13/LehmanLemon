@@ -1,0 +1,6 @@
+C:\Users\KimminauJ\Desktop\TrainingScenarios\GroupScenario2\GroupScenario2\GroupScenario2\bin\Debug\GroupScenario2.exe.config
+C:\Users\KimminauJ\Desktop\TrainingScenarios\GroupScenario2\GroupScenario2\GroupScenario2\bin\Debug\GroupScenario2.exe
+C:\Users\KimminauJ\Desktop\TrainingScenarios\GroupScenario2\GroupScenario2\GroupScenario2\bin\Debug\GroupScenario2.pdb
+C:\Users\KimminauJ\Desktop\TrainingScenarios\GroupScenario2\GroupScenario2\GroupScenario2\obj\Debug\GroupScenario2.csprojAssemblyReference.cache
+C:\Users\KimminauJ\Desktop\TrainingScenarios\GroupScenario2\GroupScenario2\GroupScenario2\obj\Debug\GroupScenario2.exe
+C:\Users\KimminauJ\Desktop\TrainingScenarios\GroupScenario2\GroupScenario2\GroupScenario2\obj\Debug\GroupScenario2.pdb

@@ -1,0 +1,12 @@
+C:\Users\KimminauJ\source\repos\MultiplicationChallenge\MultiplicationChallenge\bin\Debug\MultiplicationChallenge.exe.config
+C:\Users\KimminauJ\source\repos\MultiplicationChallenge\MultiplicationChallenge\bin\Debug\MultiplicationChallenge.exe
+C:\Users\KimminauJ\source\repos\MultiplicationChallenge\MultiplicationChallenge\bin\Debug\MultiplicationChallenge.pdb
+C:\Users\KimminauJ\source\repos\MultiplicationChallenge\MultiplicationChallenge\obj\Debug\MultiplicationChallenge.csprojAssemblyReference.cache
+C:\Users\KimminauJ\source\repos\MultiplicationChallenge\MultiplicationChallenge\obj\Debug\MultiplicationChallenge.exe
+C:\Users\KimminauJ\source\repos\MultiplicationChallenge\MultiplicationChallenge\obj\Debug\MultiplicationChallenge.pdb
+C:\Users\Student\Desktop\Training\GroupScenario1\MultiplicationChallenge\MultiplicationChallenge\bin\Debug\MultiplicationChallenge.exe.config
+C:\Users\Student\Desktop\Training\GroupScenario1\MultiplicationChallenge\MultiplicationChallenge\bin\Debug\MultiplicationChallenge.exe
+C:\Users\Student\Desktop\Training\GroupScenario1\MultiplicationChallenge\MultiplicationChallenge\bin\Debug\MultiplicationChallenge.pdb
+C:\Users\Student\Desktop\Training\GroupScenario1\MultiplicationChallenge\MultiplicationChallenge\obj\Debug\MultiplicationChallenge.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\Training\GroupScenario1\MultiplicationChallenge\MultiplicationChallenge\obj\Debug\MultiplicationChallenge.exe
+C:\Users\Student\Desktop\Training\GroupScenario1\MultiplicationChallenge\MultiplicationChallenge\obj\Debug\MultiplicationChallenge.pdb
